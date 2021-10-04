@@ -1,0 +1,10 @@
+(Create secret.py file in MainHub Directory to run this program)
+KEY = 'sgse$0q#xlnw^tbf7v=&gcr1&mz^#k_18-gnd%=#urbz%@2m(d'
+HOST_USER = 'djoserjwtoken@gmail.com'
+HOST_PASSWORD='whckcdjapfghvedk'
+DB_USER="dbadmin"
+DB_PASSWORD="Elscript:123"
+GOOGLE_KEY="781512591719-n7hhds4to365o0g98bgtnsvjvbu75ifk.apps.googleusercontent.com"
+GOOGLE_SECRET="qKT394eObxmraF3vn40_UPoy"
+FACEBOOK_KEY = '257614526043092'
+FACEBOOK_SECRET = 'ecdba51222983082e3ea0f01718a4dd0'
